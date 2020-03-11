@@ -13,6 +13,6 @@
 2. The std of June is lower than December, indicating values are also closer to the mean.<br />
 
 •	Make 2 or 3 recommendations for further analysis.
-1. besides temp, prcp should be looked into as well, since prcp is important (better not too much and not too less).
-2. other than june and dec, other monthes should be also included, so we could have other data to compare with.
+1. Besides temp, prcp should be looked into as well, since prcp is important (better not too much and not too less).
+2. Other than june and dec, other monthes should be also included, so we could have other data to compare with.
 
