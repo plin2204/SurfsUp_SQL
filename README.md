@@ -18,10 +18,10 @@
 
 •	Share your findings in the Jupyter Notebook.<br />
 
-Sep:&nbsp;&nbsp;Mean Temp 77.7 and Mean Prcp 0.28 <br />
-Dec:&nbsp;&nbsp;Mean Temp 71.1 and Mean Prcp 0.20 <br />
-Mar:&nbsp;&nbsp;Mean Temp 72.4 and Mean Prcp 0.17 <br />
-June:&nbsp;Mean Temp 77.2 and Mean Prcp 0.12 <br />
+&nbsp;&nbsp;&nbsp;&nbsp;Sep:&nbsp;&nbsp;Mean Temp 77.7 and Mean Prcp 0.28 <br />
+&nbsp;&nbsp;&nbsp;&nbsp;Dec:&nbsp;&nbsp;Mean Temp 71.1 and Mean Prcp 0.20 <br />
+&nbsp;&nbsp;&nbsp;&nbsp;Mar:&nbsp;&nbsp;Mean Temp 72.4 and Mean Prcp 0.17 <br />
+&nbsp;&nbsp;&nbsp;&nbsp;June:&nbsp;Mean Temp 77.2 and Mean Prcp 0.12 <br />
 
 1. The Temp reaches the highest on Sep, and then drops on Dec.
 2. The Prcp remains the highest on Sep, and then keeps droping until June. 
