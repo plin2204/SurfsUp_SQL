@@ -1,5 +1,5 @@
 # Surf-Up
-Using **Python, SQLAchemy, and Flask**, to analyze and visualize climate date as preparing to open a surf shop.<br>
+As preparing to open a surf shop, to analyze and visualize climate date by using **Python, SQLAchemy, and Flask**.<br>
 
 ## Steps
 •	Explain the structures, interactions, and types of data of a provided dataset.<br />
