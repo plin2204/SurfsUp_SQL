@@ -1,14 +1,15 @@
 # Surf-Up
+Using Python, SQLAchemy, and Flask, to analyze and visualize climate date as preparing to open a surf shop.<br>
+
+## Steps
 •	Explain the structures, interactions, and types of data of a provided dataset.<br />
 •	Differentiate between SQLite and PostgreSQL databases.<br />
 •	Use SQLAlchemy to connect to and query a SQLite database.<br />
 •	Use statistics like minimum, maximum, and average to analyze data.<br />
 •	Design a Flask application using data.
 
-## Challenge 9
-•	Determine key statistical data about the month of June.<br />
-•	Determine key statistical data about the month of December.<br />
-•	Compare your findings between the month of June and December.<br />
+## Discussion
+•	Compare your statistical findings between the month of June and December.<br />
 1. The mean, max, and min temperatures in June all are higher than December. 
 2. The std of June is lower than December, indicating values are also closer to the mean.<br />
 
