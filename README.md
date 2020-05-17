@@ -31,5 +31,5 @@ As preparing to open a surf shop, to analyze and visualize climate date by using
 6. Btw June n Sep, the Temp remains high but way more Prcp, possibly more people stays indoor for ice cream.
 
 ---
-The codes are in `climate_analysis.ipynb` and `flask_example.py`
+The codes are in [`climate_analysis.ipynb`](https://github.com/plin2204/SurfsUp_SQL/blob/master/climate_analysis.ipynb) and [`flask_example.py`](https://github.com/plin2204/SurfsUp_SQL/blob/master/flask_example.py)
 
