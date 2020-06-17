@@ -7,6 +7,8 @@ As preparing to open a surf shop, to analyze and visualize climate date by using
 •	Design a **Flask** application using data.
 
 ## Discussion
+The codes are in [`climate_analysis.ipynb`](https://github.com/plin2204/SurfsUp_SQL/blob/master/climate_analysis.ipynb) and [`flask_example.py`](https://github.com/plin2204/SurfsUp_SQL/blob/master/flask_example.py) for reference.
+
 •	Compare your statistical findings between the month of *June* and *December*.<br />
 1. The mean, max, and min temperatures in June all are higher than December. 
 2. The std of June is lower than December, indicating values are also closer to the mean.<br />
@@ -29,7 +31,3 @@ As preparing to open a surf shop, to analyze and visualize climate date by using
 4. In Dec, since the temp is lower and Prcp is higher, maybe less ppl come to surfing...Hopefully, the holiday season could bring more travellers for ice cream.
 5. Btw Dec n June, the Temp is getting higher and prcp is getting less, the environment should be getting better for surfing.
 6. Btw June n Sep, the Temp remains high but way more Prcp, possibly more people stays indoor for ice cream.
-
----
-The codes are in [`climate_analysis.ipynb`](https://github.com/plin2204/SurfsUp_SQL/blob/master/climate_analysis.ipynb) and [`flask_example.py`](https://github.com/plin2204/SurfsUp_SQL/blob/master/flask_example.py) for reference.
-
